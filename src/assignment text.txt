@@ -1,0 +1,1 @@
+This directory will contain each assignments in separate folders.
